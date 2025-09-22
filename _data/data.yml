@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Jieun Jang
+  tagline: Recent Health Informatics Graduate
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
+  email: jieun920304@gmail.com
   phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: ttps://junebug34.github.io # Include the full website URL, including "http://" or "https://".
+  linkedin: https://www.linkedin.com/in/jieunjang34/
+  xing: 
+  github: https://github.com/junebug34
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky:  # Specify your full Bluesky handle
+  twitter: #'@jekyllrb'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -38,13 +38,13 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Korean
       level: Native
 
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: #Spanish
+      level: #Professional
 
   interests:
     title: Interests
@@ -73,67 +73,69 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: MSc in Health Informatics – Data Analytics
+    university: George Mason University, Fairfax, Virginia
+    time: 2019 - 2023
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       pretium quis, sem.
+        - GPA: 3.91/4.00
         - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BA in Health Management
+    university: Sahmyook University, Seoul, South Korea
+    time: 2012 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
       sociis natoque penatibus et magnis dis parturient montes, nascetur
       ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
       pretium quis, sem.
-        - Bullet point
-        - Bullet point
+        - GPA: 4.24/4.50 - Graduated Summa Cum Laude 
+        - Double Major: Leisure and Sports
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Office Administrator
+    time: 2022 - 2025
+    company: Dentopia Dental Lab, Manassas, Virginia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
+      • Analyze daily dental laboratory data for patients, extracting 
+        necessary information to produce detailed reports that support 
+        decision-making and enhance operational efficiency.
+      • Facilitate staff to identify and resolve complex issues 
+        due to miscommunication while developing more effective communications 
+        with clients and managers, as well as implementing troubleshooting actions.
+      • Update and maintain patients’ data about laboratory work 
+        according to clients' requirements using QuickBooks.
         - Bullet point
         - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Data Analyst Intern
+    time: 2023 - 2023
+    company: National Health IT Collaborative for the Underserved (NHIT), Washington D.C.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      • Conducted extensive research on the social determinants of health 
+        in the U.S. Virgin Islands, employing data mapping techniques 
+        within Socrata, a Tyler Technologies platform, and performing 
+        data analysis using Python and Tableau.
+      • Collaborated with former U.S. Congresswoman Donna Christensen and 
+        local government to address healthcare disparities 
+        in the U.S. Virgin Islands and produce project deliverables.
         - Bullet point
         - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+  - role: Assistant Manager
+    time: 2021 - 2022
+    company: Art Dental Lab, Chantilly, Virginia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      • Administered all laboratory operations by devising and implementing 
+        tactical business strategy.
+      • Developed appropriate schedules of each dental case for technicians 
+        and dentists in order to streamline their workday.
+      • Utilized problem solving skills by implementing appropriate actions 
+        according to requirements.
         - Bullet point
         - Bullet point
 
@@ -264,23 +266,23 @@ skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
+  - name: Python
+    level: 90%
 
-  - name: Javascript & jQuery
-    level: 98%
+  - name: SQL Server
+    level: 90%
 
-  - name: Angular
-    level: 98%
+  - name: Tableau
+    level: 90%
 
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: XML
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: HTML
+    level: 75%
+
+  - name: Microsoft office (Excel, Word, etc.)
+    level: 90%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
