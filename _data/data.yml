@@ -42,8 +42,6 @@ sidebar:
     - idiom: Korean
       level: Native
 
-    - idiom: #Spanish
-      level: #Professional
 
   interests:
     title: Interests
@@ -73,7 +71,7 @@ education:
   title: Education
   info:
   - degree: MSc in Health Informatics – Data Analytics
-    university: George Mason University, Fairfax, Virginia
+    university: George Mason University
     time: 2019 - 2023
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -84,7 +82,7 @@ education:
         - GPA: 3.91/4.00
         - Bullet point
   - degree: BA in Health Management
-    university: Sahmyook University, Seoul, South Korea
+    university: Sahmyook University
     time: 2012 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
