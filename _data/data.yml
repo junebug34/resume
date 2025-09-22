@@ -9,14 +9,14 @@ sidebar:
 
   # Profile information
   name: Jieun Jang
-  tagline: Recent Health Informatics Graduate
+  tagline: Health Informatics Graduate
   avatar: 3472435798643392553_20201010222716705 2.JPG #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: jieun920304@gmail.com
   timezone: America/New_York # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: ttps://junebug34.github.io # Include the full website URL, including "http://" or "https://".
+  website: https://junebug34.github.io # Include the full website URL, including "http://" or "https://".
   linkedin: https://www.linkedin.com/in/jieunjang34/
   xing: 
   github: https://github.com/junebug34
