@@ -61,12 +61,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Detail-oriented Health Data Analyst with strong expertise in health informatics 
+    and management. Skilled in data analysis using Python, SQL, Tableau, and Socrata. 
+    Proven ability to leverage data insights to address healthcare disparities and 
+    improve operational efficiency. Adept at communicating complex data findings 
+    and implementing effective solutions.
 education:
   title: Education
   info:
